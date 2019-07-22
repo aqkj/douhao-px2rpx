@@ -1,6 +1,6 @@
 {
   "name": "@douhao/px2rpx",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "px转化成rpx插件",
   "main": "index.js",
   "scripts": {
