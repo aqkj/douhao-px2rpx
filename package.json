@@ -1,0 +1,30 @@
+{
+  "name": "@douhao/px2rpx",
+  "version": "0.0.4",
+  "description": "px转化成rpx插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "斗号",
+    "douhao",
+    "px2rpx"
+  ],
+  "bugs": {
+    "url": "https://github.com/aqkj/douhao-px2rpx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aqkj/douhao-px2rpx"
+  },
+  "author": "xiaoqiang <465633678@qq.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "through2": "^3.0.1"
+  }
+}
